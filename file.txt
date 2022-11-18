@@ -1,3 +1,9 @@
-file created on master
 content created on GitHub
 Statement 1 of 2: created in local directory
+
+
+
+
+
+Statement 2 of 2: created on GitHub
+
